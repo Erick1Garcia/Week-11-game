@@ -1,0 +1,22 @@
+{
+  "name": "week-11-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erick1Garcia/Week-11-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erick1Garcia/Week-11-game/issues"
+  },
+  "homepage": "https://github.com/Erick1Garcia/Week-11-game#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
