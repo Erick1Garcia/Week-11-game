@@ -1,0 +1,60 @@
+.background {
+    background-color: rgb(20, 68, 172);
+    height: 100vh;
+    padding-top: 1px;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10%;
+}
+
+.display {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.container {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 33% 33% 33%;
+    max-width: 300px;;
+  
+}
+
+.tile {
+    border: 1px solid white;
+    min-width: 93px;
+    min-height: 93px;
+    justify-content: center;
+    align-items: center; 
+   display: flex;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+}
+
+:root {
+    --winning-board: #04710f;
+}
+
+.playerX {
+    color:deeppink
+}
+
+.playerO {
+    color:plum
+}

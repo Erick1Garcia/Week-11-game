@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Erick1Garcia/Week-11-game#readme",
   "dependencies": {
+    "bootstrap": "^5.1.3",
     "jquery": "^3.6.0"
   }
 }
